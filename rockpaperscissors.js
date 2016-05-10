@@ -1,4 +1,5 @@
 // NOTE: Only works on https://repl.it/languages/javascript_web version of repl.it
+// NOTE: Asks for all picks before displaying in console. help from #wdi-fundamentals seemed to suggest this is normal for this assignment
 
 ////////////////////////////////////////////////
 /*   Provided Code - Please Don't Edit   */
